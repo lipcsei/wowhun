@@ -1,5 +1,8 @@
 # wowhun
 
+[![CI](https://github.com/lipcsei/wowhun/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lipcsei/wowhun/actions/workflows/ci.yml)
+![Go 1.23](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go&logoColor=white)
+
 Félbehagyott Go-kísérlet 2024 végéről: a kódban egy küldetés- (`Quest`) és egy NPC-adatmodell,
 valamint egy külső „wowapi" küldetés-végpont válaszának típusa van meg. Működő alkalmazás nincs
 benne, és a kódból nem derül ki, pontosan mi lett volna a végcél.
